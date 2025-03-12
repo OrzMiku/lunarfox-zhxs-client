@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "d936e599e6268c6c62aa0ef611ace7bdeba90a91c0fcbed13c0c7db0e8ce63c4"
+hash = "646b2ea6cf65f47500cbf53900e4147876b259b5d0eb4a81f0ae01015254be3a"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -33,6 +33,10 @@ file = "config/immediatelyfast.json"
 hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "43df9e4a3e60edd220983a2b9c52106471a763861a873ed43593c726eca90014"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "4005b07e3d96e6d0f8cdd740313b8da925da149d0cccaf01ad282485307430e0"
 
@@ -45,8 +49,21 @@ file = "config/particle_core_config.toml"
 hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
+
+[[files]]
 file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
+metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -61,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
 metafile = true
 
 [[files]]
@@ -124,6 +146,11 @@ hash = "c29648a250d8b767119dd0526bc1ddbbdba5b1b29d7c82c1578e506682ca495b"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "c6a97158e910a40a7d03fe07b33e25791e883dd92f4d3acf2922d803cb2762d7"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
 metafile = true
@@ -131,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "b5ca8fbc8a150538fffc7c1045f73556b1814eeb47af11c69a42320b71e90bb9"
 metafile = true
 
 [[files]]
@@ -164,6 +196,11 @@ hash = "0c32fe0ba692994312c8934087ea948fb4326cb02412adb646a9f21c37de0ccc"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
@@ -193,6 +230,11 @@ file = "mods/reflex-fabric-1.0.4+mc1.21.4.jar"
 hash = "e21b6abdcd5642d7d87bed37511fa8a54d4e2e47afb67324a0ce230475c7fefb"
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "9a53bc41ea5265170f6a87285744c158834881ec706c68c2b8101f740396b36b"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
 metafile = true
@@ -213,8 +255,18 @@ hash = "b59261452b61286cd8eab263e9f066d5d14c4cf8f99ec8142eab5df4da814ddd"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "ad1d2aa1d8270cd771b436b431929b17e0bd88847eb181df7ad355bcb0c86dec"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "2c4a9d332322cfb1234c8b90f474b5b23ae487c706b7e1e00a0dc7dcf53bb306"
+metafile = true
+
+[[files]]
 file = "options.txt"
-hash = "fa20f283c645ebe0076bca96177d546ef6dcf68d7c4820375c6cff1b7fb1a864"
+hash = "fac44a86ee267c4e122da69d308d60c439bdb18cc2e6fbbc7125c83b1642102e"
 
 [[files]]
 file = "resourcepacks/sparkles.pw.toml"
