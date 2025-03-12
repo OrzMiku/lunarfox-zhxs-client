@@ -1,0 +1,13 @@
+name = "LunarFox ZHXS Client"
+author = "OrzMiku"
+version = "1.1.1+mc1.21.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "24c9881f6bd5524b6ce888b98806baec482030a212a09356f8389f37f74ea852"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"
