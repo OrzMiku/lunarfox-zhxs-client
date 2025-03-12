@@ -21,3 +21,11 @@ The default settings require high computer performance. If your computer perform
 - Remove grass, leaves texture pack, and SPBR texture pack.
 - Turn off shaders.
 - Disable Distant Horizons mod.
+
+## Acknowledgements
+- [Simply Optimized](https://modrinth.com/modpack/sop): Some configuration files are from this modpack.
+- [LunarFox](https://modrinth.com/modpack/lunarfox): The base of this modpack.
+- [SPBR](https://modrinth.com/resourcepack/spbr): A awesome texture pack that provides excellent PBR, parallax, subsurface scattering, 3D model effects, etc.
+- [Sundial Lite](https://github.com/GeForceLegend/Sundial-Lite): A awesome shader, the default shader of this modpack.
+
+[中文](README.md) | [English](README_EN.md)

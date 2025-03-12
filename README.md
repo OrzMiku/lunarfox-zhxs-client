@@ -21,3 +21,12 @@
 - 移除草地、树叶材质包和SPBR材质包。
 - 关闭着色器。
 - 禁用Distant Horizons模组。
+
+## 致谢
+
+- [Simply Optimized](https://modrinth.com/modpack/sop)：部分配置文件来自此整合包。
+- [LunarFox](https://modrinth.com/modpack/lunarfox)：本模组包的基础。
+- [SPBR](https://modrinth.com/resourcepack/spbr)：非常棒的材质包，提供优秀的PBR、视差、次表面散射、3D模型等效果。
+- [Sundial Lite](https://github.com/GeForceLegend/Sundial-Lite)：非常棒的着色器，本模组包的默认着色器。
+
+[中文](README.md) | [English](README_EN.md)
