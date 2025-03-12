@@ -5,5 +5,6 @@ guiScale:3
 maxFps:260
 renderDistance:8
 simulationDistance:6
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","Sparkles_1.21.x_v1.1.2.zip","Os' Colorful Grasses (Mix).zip","SPBR-16_7.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","file/Sparkles_1.21.x_v1.1.2.zip","file/SPBR-16_7.zip","file/Os Colorful Grasses.zip"]
+incompatibleResourcePacks:["appleskin","badoptimizations","balm-fabric","betteradvancements","controlling","craterlib","defaultoptions","jade","konkrete","magiclib_malilib_extra","magiclib_minecraft_api","mcwifipnp","modernfix","resourcify","searchables","tweakeroo","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","zume","file/Os Colorful Grasses.zip"]
 tutorialStep:none
