@@ -1,4 +1,4 @@
-name = "LunarFox ZHXS Client"
+name = "StarFox ZHXS Client"
 author = "OrzMiku"
 version = "1.1.1+mc1.21.4"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a40f25c02f9848a05f8cf6ac8d6c39113819cdbeae329c5dc37e54558f4e1130"
+hash = "804be59a020eb56ebb8f77f70efe94ecfd866a0bcbc469540a9312b83391cd08"
 
 [versions]
 fabric = "0.16.10"

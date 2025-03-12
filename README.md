@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://github.com/OrzMiku/lunarfox">
+  <a href="https://github.com/OrzMiku/starFox">
     <img src="https://cdn.modrinth.com/data/r7CwLIIr/cfd4314a75bb775ade08fe0e9ada9cf9a913f6a5_96.webp" alt="Logo">
   </a>
-  <h1>LunarFox 朝花夕拾客户端</h1>
+  <h1>StarFox 朝花夕拾客户端</h1>
   <p>
-    一个带有朝花夕拾服务器（我的私人服务器）附加内容的 LunarFox 分支。请注意，这个模组包是朝花夕拾服务器的<b>可选</b>模组包，<b>不是</b>游玩服务器所必需的。
+    一个带有朝花夕拾服务器（我的私人服务器）附加内容的 StarFox 分支。请注意，这个模组包是朝花夕拾服务器的<b>可选</b>模组包，<b>不是</b>游玩服务器所必需的。
   </p>
 </div>
 
