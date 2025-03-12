@@ -34,7 +34,7 @@ hash = "c517791e86a0bf8734cc539613d0c122a05fe665d12285426fa7787e030d00df"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "16608e1f65ef0c2312bf0c778506e64f3835a3a68bfbeececfbbe4218d07b8df"
+hash = "c05fe0c8b8c8c77b7d63f0719c80c9d4afe9c36613f82465daf575add6abc3a8"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -54,7 +54,7 @@ hash = "43df9e4a3e60edd220983a2b9c52106471a763861a873ed43593c726eca90014"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "a85de89af56ce0e07c6db0d97bea75be9f2f2b2636632eef7d919573a6c456fd"
+hash = "e255db3bc382833ae374049c76e802ba8f1c5f917fe8288621974adf0fdd4055"
 
 [[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
@@ -474,6 +474,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "7ead84f8df46c7e292fb00079d11aa78d15724398b150db11d06e6713583fcb0"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8ff792fd5c8d9225709b317b49cc741233bfa6958f27edd8a2c8da50b4ff34fd"
 metafile = true
 
 [[files]]
