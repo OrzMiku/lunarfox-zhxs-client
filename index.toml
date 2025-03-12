@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "6b85782fa70f9edafa0dcfd9d92f64cd4f645a776f355ecda9bf918e9a80dd57"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -31,6 +35,10 @@ hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "43df9e4a3e60edd220983a2b9c52106471a763861a873ed43593c726eca90014"
+
+[[files]]
+file = "config/iris.properties"
+hash = "0fe9142d2b2a5a9795327e87e0fc594f6717d0676bf3251a2d82079d874c972f"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -261,8 +269,13 @@ hash = "2c4a9d332322cfb1234c8b90f474b5b23ae487c706b7e1e00a0dc7dcf53bb306"
 metafile = true
 
 [[files]]
+file = "mods/zume.pw.toml"
+hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
+metafile = true
+
+[[files]]
 file = "options.txt"
-hash = "fac44a86ee267c4e122da69d308d60c439bdb18cc2e6fbbc7125c83b1642102e"
+hash = "d3315bf67dcf6e9c0506676d1e8f8d9ce282fe0114b3843052ff0893baabc357"
 
 [[files]]
 file = "resourcepacks/sparkles.pw.toml"

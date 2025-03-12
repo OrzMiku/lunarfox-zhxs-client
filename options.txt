@@ -7,3 +7,6 @@ renderDistance:8
 simulationDistance:6
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","Sparkles_1.21.x_v1.1.2.zip","SPBR-16_7.zip"]
 tutorialStep:none
+key_zume.zoom:key.keyboard.c
+key_zume.zoom_in:key.keyboard.unknown
+key_zume.zoom_out:key.keyboard.unknown
